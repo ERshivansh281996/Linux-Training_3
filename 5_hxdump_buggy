@@ -1,0 +1,2 @@
+#Debug the provided buggy program (5_hxdump_buggy.c) with whichever tools you wish; fix it (call it 5_hxdump_correct.c), and generate a patch
+-----------------------------------------------------------------------------------------------------------------------------
