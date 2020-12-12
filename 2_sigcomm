@@ -1,0 +1,3 @@
+#have a process A send a 'message' to another cooperating process B via a real-time signal; the message is an integer value supplied to A as a parameter(s); 
+# that B receives it. This must continue indefinitely, or until B receives the special 'stopping' value
+------------------------------------------------------------------------------------------------------------------------------
